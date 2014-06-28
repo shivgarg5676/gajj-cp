@@ -1,0 +1,4 @@
+3 
+skeleton 0 0 0 0 0 0 0
+speech-dispatcher 1 1 1 1 0 0 0
+ssh 0 0 0 0 0 0 1
